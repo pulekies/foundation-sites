@@ -26,7 +26,7 @@ If you're using the CSS version of Foundation, you can generate a <a href="https
 @include foundation-xy-grid-classes;
 ```
 
-Note `foundation-xy-grid-classes` accepts arguements to enable/disable individual grid components. Simply set the arguement to `false` to disable output of those classes.
+Note `foundation-xy-grid-classes` accepts arguments to enable/disable individual grid components. Simply set the argument to `false` to disable output of those classes.
 These are:
 
 ```
